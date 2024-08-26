@@ -12,6 +12,3 @@
 #### d. String Manipulation & StringBuilder Class
 #### e. Validation Logic
   - Ensures the integrity of the project and prevents invalid data from being stored or processed.
-
-## 3. Tasks Performed:
-- Successfully able to compute basic arithmetic operations (like addition, subtraction, multiplication, division - quotient + remainder, comparison, etc) on large integers.
