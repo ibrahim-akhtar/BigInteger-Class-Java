@@ -1,0 +1,163 @@
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 1
+Enter the 1st BigInteger: 12345678912345678912345
+Enter the 2nd BigInteger: 11111111111111111111111111111111111
+Sum: 11111111111123456790023456790023456, Length: 35
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 2
+Enter the 1st BigInteger: 1234567891234567890
+Enter the 2nd BigInteger: -12345678999999999
+Difference: 1246913570234567889, Length: 19
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 3
+Enter the 1st BigInteger: 10000000000000000000
+Enter the 2nd BigInteger: 222222222222222234567
+Product: 2222222222222222345670000000000000000000, Length: 40
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 4
+Enter the 1st BigInteger (dividend): 123456789000000000000
+Enter the 2nd BigInteger (divisor): 123456789000
+Quotient: 1000000000, Length: 10
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 5
+Enter the 1st BigInteger (dividend): 1234567890000000000000
+Enter the 2nd BigInteger (divisor): 123456789
+Remainder: 0, Length: 1
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 5
+Enter the 1st BigInteger (dividend): 12345678900000000000000
+Enter the 2nd BigInteger (divisor): 12345678999999
+Remainder: 11112110999991, Length: 14
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 6
+Enter the 1st BigInteger: -123456789999999999999999999999999999999999999999
+Enter the 2nd BigInteger: 102345678
+First Number is less than Second Number.
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 7
+Enter the base BigInteger: 2345123451234567890
+Enter the exponent BigInteger (within integer limits): 0
+2345123451234567890 ^ 0 = 1, Length: 1
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 7
+Enter the base BigInteger: 1234567789000000123456789
+Enter the exponent BigInteger (within integer limits): 10
+1234567789000000123456789 ^ 10 = 8225255862386123982521023022394830515958648282610842832294826623206962631757459650930540563391851506676095795151799826323485869538114582914793128624363367892686053158379659253324044550285540446318394868028226248007765944055686416207799736601, Length: 241
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 7
+Enter the base BigInteger: 12345
+Enter the exponent BigInteger (within integer limits): 10
+12345 ^ 10 = 82207405646327461794954634291560556640625, Length: 41
+
+Menu:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide (Quotient)
+5. Remainder
+6. Compare
+7. Power
+8. Exit
+
+Enter your choice: 8
+Exiting...
